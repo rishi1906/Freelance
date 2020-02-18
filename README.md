@@ -94,7 +94,7 @@ In my undergrads, I had been a active competitive programmer who participated in
 |2011|233/5000+|NSO (National Science Olympiad)|
 |2011|355/5000+|IMO (International Mathematical Olympiad)|
 
-You may find the code of these contest in my Github repo using the link given below
+You may find the code of these contest in my Github repo using the link given below<br/>
 [Click here](https://github.com/rishi1906/Competitive_Programming)
 
 -----------------------------------------------------------------------------------------------------------------------------
