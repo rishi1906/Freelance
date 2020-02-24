@@ -49,7 +49,7 @@ In which I worked on the following:
 
 3.1 Designed techniques to **enhance the data capacity and security of graphical codes** that find application in **Digital Forensics**.
 
-3.2  Developed algorithms tp increase the capacity of conventional B&W QR codes by **4 times** to form a **generalized framework for n layered Color QR code**.
+3.2  Developed algorithms to increase the capacity of conventional B&W QR codes by **4 times** to form a **generalized framework for n layered Color QR code**.
 
 3.3 The proposed framework solved the problem of **color shifting and classification** in addition to the **realization of the entire Print&Scan process** which significantly enhanced the **document fraud detection and authentication rates**.
 · 
